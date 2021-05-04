@@ -1,0 +1,6 @@
+<Map>
+  <LevelName>Tutorial</LevelName>
+  <TileLayer>Layers/Tutorial.layer</TileLayer>
+  <TileLayer>Layers/Tutorial2.layer</TileLayer>
+  <CollisionLayer>Layers/Tutorial.collayer</CollisionLayer>
+</Map>

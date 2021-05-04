@@ -1,0 +1,6 @@
+<Map>
+  <LevelName>ZoneOneLevelSix</LevelName>
+  <TileLayer>Layers/ZoneOneLevelSix.layer</TileLayer>
+  <TileLayer>Layers/ZoneOneLevelSix2.layer</TileLayer>
+  <CollisionLayer>Layers/ZoneOneLevelSix.collayer</CollisionLayer>
+</Map>

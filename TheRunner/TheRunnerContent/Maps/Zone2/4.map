@@ -1,0 +1,5 @@
+<Map>
+  <LevelName>ZoneTwoLevelFive</LevelName>
+  <TileLayer>Layers/ZoneTwoLevelFive.layer</TileLayer>
+  <CollisionLayer>Layers/ZoneTwoLevelFive.collayer</CollisionLayer>
+</Map>
